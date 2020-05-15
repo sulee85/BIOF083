@@ -1,8 +1,0 @@
-
-
-
-source /etc/profile.d/markcbm.sh
-cp -R /home/manager/linux Desktop/.
-cd ~/Desktop/linux/advanced/rnaseq/
-~/Desktop/linux/advanced/rnaseq$ pwd /home/manger/Desktop?linux/advanced/rnaseq
-
